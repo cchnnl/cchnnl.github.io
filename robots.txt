@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://cchnnl.github.io/sitemap.xml
+Host: https://cchnnl.github.io
